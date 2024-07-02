@@ -1,0 +1,8 @@
+al momento de realziar la preuba de carga y estres nos podemos apreciar 
+que en los 10 min de ejecucion los servicios son rentables y no se ven afectados por la inyeccion de la misma
+no tienen mucho flujo en ese tiempo por lo cual repsonden acorde y con fluidez, tambien vemos que en la grafica
+de resultados no esta saturado y s emantiene estable  tubo una media de 945 y una maxima de 944 con una tasa de desviacion de 4 
+se ve que inicio estable pero con el pasar del tiempo fue decayendo.
+
+en el sumary report podesmos ver un estatus de todo el paso de las peticiones en donde la margen de error fue de 0% 
+estable para el proposito de estas pruebas.
